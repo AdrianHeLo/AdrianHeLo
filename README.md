@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android Projects
 - 💬 Ask me about mobile applications
 - 📫 How to reach me: <a href="linkedin.com/in/adrián-hernández-lópez-695788179" target="_blank">Adrian Hernandez Lopez</a>
+- 😄 Contact me: ing.adrianhelo@gmail.com
 <br>
 
 ## Projects
