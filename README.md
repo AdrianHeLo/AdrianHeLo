@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-[![Linkedin](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![OCC](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+[![Linkedin](https://linkedin.com/in/adrián-hernández-lópez-695788179)]
+[![OCC](https://img.shields.io/twitch/status/aristidevs?style=social)]
+[![GitHub](https://img.shields.io/github/followers/arisguimera?style=social)]
 
 ## About Me
 
