@@ -81,12 +81,12 @@ Here are some ideas to get you started:
 
 <td width="50%">
 <br>
-<h3 align="center">Garageio</h3>
+<h3 align="center">Volume Calculator</h3>
 <div align="center">
-<img src="https://play-lh.googleusercontent.com/pDa26qGe-HUFtnSCmcJ10h9_uyr2AzfwoQ3orr5ns4nruRPs0egNbLxt-sG2xIlbi44=w2560-h1440-rw" width="400" alt="">
+<img src="https://www.flaticon.com/free-icon/square_14294460?term=volume+calculator&page=1&position=2&origin=search&related_id=14294460" width="400" alt="">
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.garageio&hl=en_US" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Store-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/AdrianHeLo/VolumeCalculatorApp/tree/VCA-V1" target="_blank">
+<img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p><strong>Garageio </strong>is the simple and secure way to control and monitor your garage door from anywhere in the world, without needing to replace your existing opener.</p>
