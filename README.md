@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><strong>Garageio </strong>is the simple and secure way to control and monitor your garage door from anywhere in the world, without needing to replace your existing opener.</p>
+<p><strong>Volume Calculator </strong>built with Java.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
