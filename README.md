@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">Volume Calculator</h3>
 <div align="center">
-<img src="https://www.flaticon.com/free-icon/square_14294460?term=volume+calculator&page=1&position=2&origin=search&related_id=14294460" width="400" alt="">
+<img src="https://cdn.icon-icons.com/icons2/2473/PNG/512/shape_geometry_geometric_d_cube_icon_149667.png" width="400" alt="">
 <p>
 <a href="https://github.com/AdrianHeLo/VolumeCalculatorApp/tree/VCA-V1" target="_blank">
 <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
