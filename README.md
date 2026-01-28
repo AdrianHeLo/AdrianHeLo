@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 📲 Mobile developer
 - 🔭 I’m currently working on Junior Developer.
-- 🌱 I’m currently learning Android with Java
+- 🌱 I’m currently learning Android with Kotlin
 - 👯 I’m looking to collaborate on Android Projects
-- 💬 Ask me about mobile applications
+- 💬 Ask me about videogames, books or hobbies.
 - 📫 How to reach me: <a href="linkedin.com/in/adrián-hernández-lópez-695788179" target="_blank">Adrian Hernandez Lopez</a>
 - 😄 Contact me: ing.adrianhelo@gmail.com
 <br>
