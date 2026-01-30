@@ -79,11 +79,11 @@ Here are some ideas to get you started:
   
   <td width="50%">
   <br>
-  <h3 align="center">Volume Calculator</h3>
+  <h3 align="center">Planets App</h3>
   <div align="center">
     <img src="https://cdn.icon-icons.com/icons2/2473/PNG/512/shape_geometry_geometric_d_cube_icon_149667.png" width="400" alt="">
     <p>
-    <a href="https://github.com/AdrianHeLo/VolumeCalculatorApp/tree/VCA-V1" target="_blank">
+    <a href="https://github.com/AdrianHeLo/PlanetsApp/tree/main" target="_blank">
     <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
     </a>
     </p>
