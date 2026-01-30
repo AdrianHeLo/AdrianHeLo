@@ -87,7 +87,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
     </a>
     </p>
-    <p><strong>Volume Calculator</p>
+    <p>Aplicación para Android desarrollada en Kotlin que permitirá a los usuarios obtener imagenes y datos de los planetas a traves de la NASA. </p>
   </div>                                                             
 </table>                                                                                 
 </div>
