@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   <h1 align="center">I´m Adrian HeLo 👋</h1>
 </div>
 
-## About Me
+## Acerca de mí
 - 📲 Desarrollador móvil
 - 🔭 Actualmente estoy trabajando como desarrollador junior.
 - 🌱 Actualmente estoy aprendiendo Android con Kotlin.
