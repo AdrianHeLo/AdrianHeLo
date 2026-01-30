@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## Android Developer Portfalio
+## Android Developer Portafolio
 
 <table align="center">
   <tr>
