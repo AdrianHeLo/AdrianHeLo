@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   <br>
   <h3 align="center">Planets App</h3>
   <div align="center">
-    <img src="https://github.com/AdrianHeLo/PlanetsApp/blob/main/app/src/main/res/drawable/orbit.png" width="400" alt="">
+    <img src="https://github.com/AdrianHeLo/PlanetsApp/blob/main/app/src/main/res/drawable/neptune.png" width="400" alt="">
     <p>
     <a href="https://github.com/AdrianHeLo/PlanetsApp/tree/main" target="_blank">
     <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
