@@ -61,7 +61,45 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## Own Projects
+## Android Developer Portfolio
+## Android Projects (Java)
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Pokedex</h3>
+<div align="center">
+<img src="https://cdn.icon-icons.com/icons2/851/PNG/512/Pokedex_tool_icon-icons.com_67529.png" width="400" alt="">
+<p>
+<a href="https://github.com/AdrianHeLo/Pokedex/tree/master" target="_blank">
+<img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p><strong>Pokedex</strong> built with Java and coming soon PokéAPI.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<br>
+<h3 align="center">Volume Calculator</h3>
+<div align="center">
+<img src="https://cdn.icon-icons.com/icons2/2473/PNG/512/shape_geometry_geometric_d_cube_icon_149667.png" width="400" alt="">
+<p>
+<a href="https://github.com/AdrianHeLo/VolumeCalculatorApp/tree/VCA-V1" target="_blank">
+<img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p><strong>Volume Calculator </strong>built with Java.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>          
+
+</div>
+<br>
+
+## Android Projects (Kotlin)
 
 <table>
 <tr>
