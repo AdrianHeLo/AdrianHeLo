@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 </div>
 
 ## About Me
-
-- 📲 Mobile developer
-- 🔭 I’m currently working on Junior Developer.
-- 🌱 I’m currently learning Android with Kotlin
-- 👯 I’m looking to collaborate on Android Projects
-- 💬 Ask me about videogames, books or hobbies.
-- 📫 How to reach me: <a href="linkedin.com/in/adrián-hernández-lópez-695788179" target="_blank">Adrian Hernandez Lopez</a>
-- 😄 Contact me: ing.adrianhelo@gmail.com
+- 📲 Desarrollador móvil
+- 🔭 Actualmente estoy trabajando como desarrollador junior.
+- 🌱 Actualmente estoy aprendiendo Android con Kotlin.
+- 👯 Estoy buscando colaborar en proyectos Android.
+- 💬 Pregúntame sobre videojuegos, libros, música, viajes, pasatiempos y guitarras.
+- 📫 Cómo contactar conmigo: <a href="linkedin.com/in/adrián-hernández-lópez-695788179" target="_blank">Adrián Hernández López</a>
+- 😄 Contacta conmigo: ing.adrianhelo@gmail.com
 <br>
 
-## Projects on PlayStore/AppStore
+## Proyectos en que he participado en PlayStore/AppStore
 <table>
   <tr>
   <td width="50%">
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Play%20Store-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
       </p>
-      <p><strong>Beam Home </strong>is the simple and secure way to control and monitor your garage door from anywhere in the world, without replacing your existing garage door opener.</p>
+      <p><strong>Beam Home </strong>es la forma sencilla y segura de controlar y supervisar la puerta de su garaje desde cualquier parte del mundo, sin necesidad de sustituir el sistema de apertura actual.</p>
     </div>                                                                                     
   </td>
   
@@ -51,7 +50,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Play%20Store-ff9?style=for-the-badge&logo=github&logoColor=black">
     </a>
     </p>
-    <p><strong>Garageio </strong>is the simple and secure way to control and monitor your garage door from anywhere in the world, without needing to replace your existing opener.</p>
+    <p><strong>Garageio </strong>es la forma sencilla y segura de controlar y supervisar la puerta de su garaje desde cualquier parte del mundo, sin necesidad de sustituir el sistema de apertura actual.</p>
   </div>                                                             
 </table>                                                                                 
 </div>
@@ -60,7 +59,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## Android Developer Portfolio
+## Android Developer Portfalio
 
 <table align="center">
   <tr>
@@ -73,7 +72,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
     </a>
     </p>
-    <p><strong>Pokedex</strong> built with Java and coming soon PokéAPI.</p>
+    <p><strong>Pokedex</strong> construida con Java y próximamente con implementación PokéAPI.</p>
   </div>
                                                                                         
   </td>
@@ -88,7 +87,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
     </a>
     </p>
-    <p><strong>Volume Calculator </strong>built with Java.</p>
+    <p><strong>Volume Calculator</p>
   </div>                                                             
 </table>                                                                                 
 </div>
