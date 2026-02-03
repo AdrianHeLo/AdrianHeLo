@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Contacta conmigo: ing.adrianhelo@gmail.com
 <br>
 
-## Proyectos en que he participado en PlayStore/AppStore
+## Colaboraciones en PlayStore/AppStore
 <table>
   <tr>
   <td width="50%">
