@@ -64,15 +64,49 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
   <td width="50%">
-  <h3 align="center">Pokedex</h3>
+  <h3 align="center">Movie App</h3>
   <div align="center">
-    <img src="https://cdn.icon-icons.com/icons2/851/PNG/512/Pokedex_tool_icon-icons.com_67529.png" width="400" alt="">
+    <img src="https://images.icon-icons.com/3053/PNG/512/movie_explorer_pro_macos_bigsur_icon_189929.png" width="400" alt="">
     <p>
-    <a href="https://github.com/AdrianHeLo/Pokedex/tree/master" target="_blank">
+    <a href="https://github.com/AdrianHeLo/Movie-App" target="_blank">
     <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
     </a>
     </p>
-    <p><strong>Pokedex</strong> construida con Java y próximamente con implementación PokéAPI.</p>
+    <p>Obten informacion en tiempo real de las peliculas y series del momento.</p>
+  </div>
+                                                                                        
+  </td>
+  
+  <td width="50%">
+  <br>
+  <h3 align="center">Lottery Authenticator</h3>
+  <div align="center">
+    <img src="https://images.icon-icons.com/3582/PNG/512/win_money_lottery_jackpot_casino_icon_225855.png" width="400" alt="">
+    <p>
+    <a href="https://github.com/AdrianHeLo/Lottery-Authenticator" target="_blank">
+    <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
+    </a>
+    </p>
+    <p>Lottery Authenticator genera números de lotería ramdom, código en Kotlin, con buenas prácticas. Se uso la filosofía de Google Authenticator como referencia es una excelente idea porque su estructura es simple, segura, desacoplada y muy limpia.</p>
+  </div>                                                             
+</table>                                                                                 
+</div>
+<br>          
+
+</div>
+
+<table align="center">
+  <tr>
+  <td width="50%">
+  <h3 align="center">Contact Manager</h3>
+  <div align="center">
+    <img src="https://images.icon-icons.com/4309/PNG/512/names_phone_numbers_contacts_directory_address_book_contact_icon_267239.png" width="400" alt="">
+    <p>
+    <a href="https://github.com/AdrianHeLo/Contact-Manager" target="_blank">
+    <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
+    </a>
+    </p>
+    <p>Proyecto Android creada con Kotlin y uno de los mejores ejemplos para implementar Data Binding y ROOM. Registro de contactos con nombre y un email.</p>
   </div>
                                                                                         
   </td>
@@ -94,6 +128,8 @@ Here are some ideas to get you started:
 <br>          
 
 </div>
+
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
