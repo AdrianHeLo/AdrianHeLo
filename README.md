@@ -113,7 +113,7 @@ Here are some ideas to get you started:
   
   <td width="50%">
   <br>
-  <h3 align="center">Planets App</h3>
+  <h3 align="center">Journal App</h3>
   <div align="center">
     <img src="https://github.com/AdrianHeLo/PlanetsApp/blob/main/app/src/main/res/drawable/neptune.png" width="400" alt="">
     <p>
