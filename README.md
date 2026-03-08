@@ -117,7 +117,7 @@ Here are some ideas to get you started:
   <div align="center">
     <img src="https://github.com/AdrianHeLo/Journal-App/blob/main/app/src/main/res/drawable/book.png" width="400" alt="">
     <p>
-    <a href="https://github.com/AdrianHeLo/PlanetsApp/tree/main" target="_blank">
+    <a href="https://github.com/AdrianHeLo/Journal-App" target="_blank">
     <img src="https://img.shields.io/badge/Git%20Hub-ff9?style=for-the-badge&logo=github&logoColor=black">
     </a>
     </p>
