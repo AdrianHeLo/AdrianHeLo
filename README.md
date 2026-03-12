@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 </div>
 
 ## Acerca de mí
-- 📲 Desarrollador móvil
-- 🔭 Actualmente estoy trabajando como desarrollador junior.
+- 📲 Desarrollador Android (Java) con experiencia.
+- 🤔 Actualmente estoy buscando oportunidades como desarrollador móvil.
 - 🌱 Actualmente estoy aprendiendo Android con Kotlin.
-- 👯 Estoy buscando colaborar en proyectos Android.
 - 💬 Pregúntame sobre videojuegos, libros, música, viajes, pasatiempos y guitarras.
-- 📫 Cómo contactar conmigo: <a href="linkedin.com/in/adrián-hernández-lópez-695788179" target="_blank">Adrián Hernández López</a>
-- 😄 Contacta conmigo: ing.adrianhelo@gmail.com
+- 📫 Contacta conmigo: ing.adrianhelo@gmail.com
 <br>
 
 ## Colaboraciones en PlayStore/AppStore
